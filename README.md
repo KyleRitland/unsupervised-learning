@@ -1,4 +1,4 @@
-# Investigating chemical composition similarities in wine samples
+# Investigating chemical composition similarities in wine samples with unsupervised learning
 Using chemical composition data and subjective 'quality' designations of Vinho Verde wine samples, I investigate the following questions:
 1. Can the unsupervised learning algorithms K-means, Agglomerative clustering, and Non-zero Matrix Factorization (NMF) produce sample groups matching the subjective quality measures of samples?
 2. What is the maximum attainable accuracy of each algorithm, for a given set of optimized hyperparameters  
