@@ -4,4 +4,4 @@ Using chemical composition data and subjective 'quality' designations of Vinho V
 2. What is the maximum attainable accuracy of each algorithm, for a given set of optimized hyperparameters  
 3. If no algorithm is capable of moderate or greater accuracy, what could be some possible reasons for that?
 ### Viewing report
-To see report on shooting data in broswer, [click here](https://kyleritland.github.io/kyleritland/final project.pdf).
+To see report on shooting data in broswer, [click here](https://kyleritland.github.io/kyleritland/'final project'.pdf).
